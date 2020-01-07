@@ -1,0 +1,17 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+## GM Added
+*.Rproj
+**/*_cache
+## LaTeX cruft
+**/*.aux
+**/*.bbl
+**/*.blg
+**/*.log
+**/*.nav
+**/*.out
+**/*.synctex.gz
+**/*.toc
+**/*.snm
