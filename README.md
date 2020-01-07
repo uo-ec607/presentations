@@ -38,35 +38,37 @@ Topics will be allocated on a first-come-first-served basis. Each person is expe
 
 Don't feel limited to these, but here are some suggestions for the open topic slots:
 
-C++
+#### C++
 - [Rcpp](http://dirk.eddelbuettel.com/code/rcpp.html) (Note: You may want to start with a gentler introduction like [this](https://csgillespie.github.io/efficientR/performance.html#rcpp) or [this](https://adv-r.hadley.nz/rcpp.html))
 
-Communication
+#### Communication
 - [blogdown](https://bookdown.org/yihui/blogdown/)
 - [Shiny](https://shiny.rstudio.com/)
 
-Bayesian
+#### Bayesian
 - [greta](https://greta-stats.org/)
 - [rstan](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started) or derivatives ([brms](https://paul-buerkner.github.io/brms/), [rstanarm](http://mc-stan.org/rstanarm/), etc.)
 
-Forecasting
+#### Time-series and Forecasting
 - [prophet](https://facebook.github.io/prophet/)
+- [tsibble](https://tsibble.tidyverts.org/) and/or [fable](https://fable.tidyverts.org/)
+- [zoo](https://cran.r-project.org/web/packages/zoo/index.html)
 
-Julia
+#### Julia
 - [RCall](http://juliainterop.github.io/RCall.jl/stable/index.html) and/or [JuliaCall](https://non-contradiction.github.io/JuliaCall/index.html)
 
-Python
+#### Python
 - [Conda](https://conda.io/docs/) and/or [Jupyter Notebooks](https://jupyter.org/)
 - [Reticulate](https://rstudio.github.io/reticulate/) (i.e. Python)
 
-Social and networks
+#### Social and networks
 - [ggraph](https://ggraph.data-imaginist.com/) and [tidygraph](https://tidygraph.data-imaginist.com/)
 - [rtweet](https://rtweet.info/)
 - [wikipediatrend](https://github.com/petermeissner/wikipediatrend/)
 
-Text / NLP
+#### Text / NLP
 - [tidytext](https://juliasilge.github.io/tidytext/)
 
-Workflow and automation
+#### Workflow and automation
 - [drake](https://ropensci.github.io/drake/)
 - [workflowr](https://jdblischak.github.io/workflowr/)
