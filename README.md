@@ -14,7 +14,7 @@ Topics will be allocated on a first-come-first-served basis. Each person is expe
 |---------|-------|-----------|-----------|
 | 1 | None | NA | NA | 
 | 2 | R Markdown | [a](https://rmarkdown.rstudio.com/), [b](https://bookdown.org/yihui/rmarkdown/) |  | 
-| 3 |  |  |  |
+| 3 | GitKraken (or other GUI) | [a](https://www.gitkraken.com/), [b](https://www.sourcetreeapp.com/), [c](https://desktop.github.com/), [d](https://github.atom.io/), [e](https://code.visualstudio.com/docs/introvideos/versioncontrol) |  |
 | 4 |  |  |  |
 | 5 | Tidy data | [a](https://vita.had.co.nz/papers/tidy-data.pdf)  |  | 
 | 6 | data.table | [a](http://rdatatable.gitlab.io/data.table/index.html), [b](https://dtplyr.tidyverse.org/), [c](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/) |  | 
@@ -49,7 +49,7 @@ Don't feel limited to these, but here are some suggestions for the open topic sl
 - [greta](https://greta-stats.org/)
 - [rstan](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started) or derivatives ([brms](https://paul-buerkner.github.io/brms/), [rstanarm](http://mc-stan.org/rstanarm/), etc.)
 
-#### Time-series and Forecasting
+#### Time-series and forecasting
 - [prophet](https://facebook.github.io/prophet/)
 - [tsibble](https://tsibble.tidyverts.org/) and/or [fable](https://fable.tidyverts.org/)
 - [zoo](https://cran.r-project.org/web/packages/zoo/index.html)
@@ -59,7 +59,7 @@ Don't feel limited to these, but here are some suggestions for the open topic sl
 
 #### Python
 - [Conda](https://conda.io/docs/) and/or [Jupyter Notebooks](https://jupyter.org/)
-- [Reticulate](https://rstudio.github.io/reticulate/) (i.e. Python)
+- [Reticulate](https://rstudio.github.io/reticulate/)
 
 #### Social and networks
 - [ggraph](https://ggraph.data-imaginist.com/) and [tidygraph](https://tidygraph.data-imaginist.com/)
