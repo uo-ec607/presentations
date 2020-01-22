@@ -22,7 +22,7 @@ Topics will be allocated on a first-come-first-served basis. Each person is expe
 | 7 | APIs | [a](https://zapier.com/learn/apis/) |  | 
 | 8 | Regular expressions | [a](http://stat545.com/block022_regular-expression.html), [b](https://www.garrickadenbuie.com/project/regexplain/), [c](https://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf) |  | 
 | 9 | CRS | [a](https://geocompr.robinlovelace.net/spatial-class.html#crs-intro), [b](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/OverviewCoordinateReferenceSystems.pdf) |  | 
-| 10 |  |  |  | 
+| 10 | rtweet | [a](https://rtweet.info/) | Brad | 
 | 11 | Tidyeval | [a](https://dplyr.tidyverse.org/articles/programming.html), [b](https://tidyeval.tidyverse.org/) |  | 
 | 12 |  |  |  |
 | 13 |  |  |  |  
@@ -63,7 +63,6 @@ Don't feel limited to these, but here are some suggestions for the open topic sl
 
 #### Social and networks
 - [ggraph](https://ggraph.data-imaginist.com/) and [tidygraph](https://tidygraph.data-imaginist.com/)
-- [rtweet](https://rtweet.info/)
 - [wikipediatrend](https://github.com/petermeissner/wikipediatrend/)
 
 #### Text / NLP
