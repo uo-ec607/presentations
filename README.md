@@ -17,7 +17,8 @@ Topics will be allocated on a first-come-first-served basis. Each person is expe
 | 3 | GitKraken (or other GUI) | [a](https://www.gitkraken.com/), [b](https://www.sourcetreeapp.com/), [c](https://desktop.github.com/), [d](https://github.atom.io/), [e](https://code.visualstudio.com/docs/introvideos/versioncontrol) |  |
 | 4 |  |  |  |
 | 5 | Tidy data | [a](https://tidyr.tidyverse.org/articles/tidy-data.html), [b](https://vita.had.co.nz/papers/tidy-data.pdf)  |  | 
-| 6 | data.table | [a](http://rdatatable.gitlab.io/data.table/index.html), [b](https://dtplyr.tidyverse.org/), [c](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/) |  | 
+|   | tinyverse | [a](http://www.tinyverse.org/) |  | 
+| 6 |  |  |  | 
 |   | SelectorGadget | [a](https://cran.r-project.org/web/packages/rvest/vignettes/selectorgadget.html) |  | 
 | 7 | APIs | [a](https://zapier.com/learn/apis/) |  | 
 | 8 | Regular expressions | [a](http://stat545.com/block022_regular-expression.html), [b](https://www.garrickadenbuie.com/project/regexplain/), [c](https://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf) |  | 
@@ -38,24 +39,29 @@ Topics will be allocated on a first-come-first-served basis. Each person is expe
 
 Don't feel limited to these, but here are some suggestions for the open topic slots:
 
+#### Bayesian
+- [greta](https://greta-stats.org/)
+- [rstan](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started) or derivatives ([brms](https://paul-buerkner.github.io/brms/), [rstanarm](http://mc-stan.org/rstanarm/), etc.)
+
 #### C++
-- [Rcpp](http://dirk.eddelbuettel.com/code/rcpp.html) (Note: You may want to start with a gentler introduction like [this](https://csgillespie.github.io/efficientR/performance.html#rcpp) or [this](https://adv-r.hadley.nz/rcpp.html))
+- [Rcpp](http://dirk.eddelbuettel.com/code/rcpp.html) (Note: You may want to start with a short introduction like [this](https://csgillespie.github.io/efficientR/performance.html#rcpp) or [this](https://adv-r.hadley.nz/rcpp.html))
 
 #### Communication
 - [blogdown](https://bookdown.org/yihui/blogdown/)
 - [Shiny](https://shiny.rstudio.com/)
 
-#### Bayesian
-- [greta](https://greta-stats.org/)
-- [rstan](https://github.com/stan-dev/rstan/wiki/RStan-Getting-Started) or derivatives ([brms](https://paul-buerkner.github.io/brms/), [rstanarm](http://mc-stan.org/rstanarm/), etc.)
+#### Education
 
-#### Time-series and forecasting
-- [prophet](https://facebook.github.io/prophet/)
-- [tsibble](https://tsibble.tidyverts.org/) and/or [fable](https://fable.tidyverts.org/)
-- [zoo](https://cran.r-project.org/web/packages/zoo/index.html)
+- [learnr](https://rstudio.github.io/learnr/)
+- [R/exams](http://www.r-exams.org/)
 
 #### Julia
-- [RCall](http://juliainterop.github.io/RCall.jl/stable/index.html) and/or [JuliaCall](https://non-contradiction.github.io/JuliaCall/index.html)
+- [RCall](http://juliainterop.github.io/RCall.jl/stable/index.html) 
+- [JuliaCall](https://non-contradiction.github.io/JuliaCall/index.html) or [Julia ConnectoR](https://github.com/stefan-m-lenz/JuliaConnectoR)
+
+#### Packages
+
+- Various good posts and examples, including [here](https://r-mageddon.netlify.app/post/writing-an-r-package-from-scratch/), [here](https://www.hvitfeldt.me/blog/usethis-workflow-for-package-development/), and [here](https://zenartofrpkgs.netlify.app)
 
 #### Python
 - [Conda](https://conda.io/docs/) and/or [Jupyter Notebooks](https://jupyter.org/)
@@ -69,6 +75,13 @@ Don't feel limited to these, but here are some suggestions for the open topic sl
 #### Text / NLP
 - [tidytext](https://juliasilge.github.io/tidytext/)
 
+#### Time-series and forecasting
+- [prophet](https://facebook.github.io/prophet/)
+- [tsibble](https://tsibble.tidyverts.org/) and/or [fable](https://fable.tidyverts.org/)
+- [zoo](https://cran.r-project.org/web/packages/zoo/index.html)
+
 #### Workflow and automation
-- [drake](https://ropensci.github.io/drake/)
+- [renv](https://rstudio.github.io/renv)
+- [GNU Make](https://www.gnu.org/software/make/) (Good, short intros [here](https://stat545.com/automating-pipeline.html) and [here](http://zmjones.com/make/))
+- [targets](https://wlandau.github.io/targets/) / [drake](https://ropensci.github.io/drake/)
 - [workflowr](https://jdblischak.github.io/workflowr/)
