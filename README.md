@@ -22,7 +22,8 @@ Topics will be allocated on a first-come-first-served basis. Each person is expe
 |   | SelectorGadget | [a](https://cran.r-project.org/web/packages/rvest/vignettes/selectorgadget.html) |  | 
 | 7 | APIs | [a](https://zapier.com/learn/apis/) |  | 
 | 8 | Regular expressions | [a](http://stat545.com/block022_regular-expression.html), [b](https://www.garrickadenbuie.com/project/regexplain/), [c](https://www.rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf) |  | 
-| 9 | CRS | [a](https://geocompr.robinlovelace.net/spatial-class.html#crs-intro), [b](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/OverviewCoordinateReferenceSystems.pdf) |  | 
+| 9 | CRS | [a](https://geocompr.robinlovelace.net/spatial-class.html#crs-intro), [b](https://www.nceas.ucsb.edu/~frazier/RSpatialGuides/OverviewCoordinateReferenceSystems.pdf) |  |
+|   | Geocoding | [a](https://lost-stats.github.io/Geo-Spatial/geocoding.html) |  |
 | 10 |  |  |  | 
 | 11 | Tidyeval | [a](https://dplyr.tidyverse.org/articles/programming.html), [b](https://tidyeval.tidyverse.org/) |  | 
 | 12 |  |  |  |
